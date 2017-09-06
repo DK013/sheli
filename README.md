@@ -1,6 +1,6 @@
 # Sheli
 
-> A simple chatbot experiment with noed.js
+> A simple chatbot experiment with node.js
 
 ## About
 
